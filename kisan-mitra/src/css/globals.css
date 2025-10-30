@@ -1,0 +1,7 @@
+.btn{
+    @apply px-4 py-2 rounded-lg cursor-pointer
+}
+.center-pos{
+    @apply flex justify-center items-center
+}
+
